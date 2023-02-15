@@ -2,8 +2,8 @@
 
 Public repository of the Stone Of Randar Roadmap.
 
-- [Issues](https://github.com/PierreYvesFlamand/Stones-Of-Randar-Roadmap/issues)
-- [Milestones](https://github.com/PierreYvesFlamand/Stones-Of-Randar-Roadmap/milestones)
+- [Issues](https://github.com/PierreYvesFlamand/Stones-Of-Randar/issues)
+- [Milestones](https://github.com/PierreYvesFlamand/Stones-Of-Randar/milestones)
 - [Projetc](https://github.com/users/PierreYvesFlamand/projects/2)
-- [Wiki](https://github.com/PierreYvesFlamand/Stones-Of-Randar-Roadmap/wiki)
-- [Discussions](https://github.com/PierreYvesFlamand/Stones-Of-Randar-Roadmap/discussions)
+- [Wiki](https://github.com/PierreYvesFlamand/Stones-Of-Randar/wiki)
+- [Discussions](https://github.com/PierreYvesFlamand/Stones-Of-Randar/discussions)
