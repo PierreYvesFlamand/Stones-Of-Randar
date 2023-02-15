@@ -1,6 +1,6 @@
-# Stones Of Randar Roadmap
+# Stones Of Randar
 
-Public repository of the Stone Of Randar Roadmap.
+Public repository of the Stone Of Randar.
 
 - [Issues](https://github.com/PierreYvesFlamand/Stones-Of-Randar/issues)
 - [Milestones](https://github.com/PierreYvesFlamand/Stones-Of-Randar/milestones)
